@@ -23,7 +23,7 @@ The benefits are immediate:
 This is a proof-of-concept for how we can bridge the gap between regulation and effective, technology-driven implementation.
 
 
-# AI Act: Commission issues draft guidance and reporting template on serious AI incidents, and seeks stakeholders': 
+## AI Act: Commission issues draft guidance and reporting template on serious AI incidents, and seeks stakeholders': 
 https://digital-strategy.ec.europa.eu/en/consultations/ai-act-commission-issues-draft-guidance-and-reporting-template-serious-ai-incidents-and-seeks
 
 ## Features
