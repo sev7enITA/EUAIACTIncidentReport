@@ -2,7 +2,9 @@
 
 A comprehensive web-based platform for reporting AI system incidents in compliance with **EU AI Act Article 73**. This MVP (Minimum Viable Product) is designed for sharing with the European Commission and regulatory authorities.
 
-## AI Act: Commission issues draft guidance and reporting template on serious AI incidents, and seeks stakeholders': 
+
+
+# AI Act: Commission issues draft guidance and reporting template on serious AI incidents, and seeks stakeholders': 
 https://digital-strategy.ec.europa.eu/en/consultations/ai-act-commission-issues-draft-guidance-and-reporting-template-serious-ai-incidents-and-seeks
 
 ## Features
